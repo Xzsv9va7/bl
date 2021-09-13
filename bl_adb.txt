@@ -1,14 +1,3 @@
-[Adblock Plus 2.0]
-! Title: 280blocker adblock filter
-! Homepage: https://280blocker.net
-!
-! Licence: 
-! This file is only permitted for personal use under copyright law.
-! Commercial use or  redistribution are prohibited except as permitted by copyright law.
-!
-! Last updated: 2021-08-30
-##.blocker280-20210830
-
 !2021/08/30
 play-life.jp##[class*="affiliate-hotel"]
 revolve-ysy.jp###bfb_content_sp
