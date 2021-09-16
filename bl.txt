@@ -1,5 +1,3 @@
-||domain.dummy280280.net^
-||check.dummy280280.net^
 ||pagead2.googlesyndication.com^
 ||exosrv.com^
 ||coremetrics.com^
